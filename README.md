@@ -5,21 +5,32 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/p5yJqQK.gif" width="400" alt="Coding gif">
+  <img src="https://i.imgur.com/qg5Yz3X.gif" width="500" alt="Coding animation">
 </p>
 
 <hr style="border: 1px solid #00ffff; box-shadow: 0 0 10px #00ffff;">
 
 ### 🧠 Skills & Experience
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,py,cs,lua&theme=dark" alt="Languages" /><br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Roblox_Studio_Logo_2021.png/128px-Roblox_Studio_Logo_2021.png" height="50" alt="Roblox Studio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Minecraft_Logo.svg" height="45" alt="Minecraft" />
+</p>
+
 💻 **Languages**  
-> Java · JavaScript · Python · C# · Luau
+> Java · JavaScript · Python · C# · Luau  
 
 🧩 **Frameworks / APIs**  
-> Node.js · Discord.js · SpigotAPI · MonoGame · Roblox Studio
+> Node.js · Discord.js · SpigotAPI · MonoGame · Roblox Studio  
 
 🗄️ **Databases**  
-> MySQL · SQLite
+> MySQL · SQLite  
+
+🕹️ **Experience**  
+> Specialized in **backend and game plugin development**, focusing on performance-oriented systems for **Minecraft** and **Roblox**.  
+> Skilled in **automation**, **real-time data handling**, and **cross-platform integration**.
 
 <hr style="border: 1px solid #ff00ff; box-shadow: 0 0 10px #ff00ff;">
 
