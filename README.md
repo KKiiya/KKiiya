@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,py,cs,lua&theme=dark" alt="Languages" /><br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Roblox_Studio_logo_2022.svg" height="50" alt="Roblox Studio" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" height="50" alt="Minecraft" />
+  <img src="https://static.wikia.nocookie.net/animatorvsanimation/images/5/52/MinecraftIcon.png/revision/latest?cb=20250423103804" height="50" alt="Minecraft" />
 </p>
 
 💻 **Languages**  
@@ -61,3 +61,4 @@
   <a href="https://discord.com/users/kiiya_"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   <a href="https://github.com/KKiiya"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
+
