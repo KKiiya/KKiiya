@@ -61,10 +61,10 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/kkiiya_"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
   <a href="https://discord.com/users/kiiya_"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   <a href="https://github.com/KKiiya"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
+
 
 
 
