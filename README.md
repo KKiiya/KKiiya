@@ -23,12 +23,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" alt="Minecraft" />
 </p>
 
-💻 **Languages**  
-> Java · JavaScript · Python · C# · Luau  
-
-🧩 **Frameworks / APIs**  
-> Node.js · Discord.js · SpigotAPI · MonoGame · Roblox Studio  
-
 🗄️ **Databases**  
 > MySQL · SQLite  
 
@@ -64,6 +58,7 @@
   <a href="https://discord.com/users/kiiya_"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   <a href="https://github.com/KKiiya"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
+
 
 
 
