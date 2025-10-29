@@ -20,7 +20,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/4772066?s=200&v=4" height="50" alt="MonoGame" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" alt="Minecraft" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" alt="NodeJS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://tse4.mm.bing.net/th/id/OIP.ID0PANSxKXC7t25uBRswRAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="NodeJS"/>
 </p>
 
 🗄️ **Databases**  
@@ -58,6 +60,7 @@
   <a href="https://discord.com/users/kiiya_"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   <a href="https://github.com/KKiiya"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
+
 
 
 
