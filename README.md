@@ -37,10 +37,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=KKiiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai"
     width="48%"
+    style="vertical-align: middle;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKiiya&layout=pie&theme=monokai"
     width="36%"
+    style="vertical-align: middle;"
   />
 </p>
 
