@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="250" height="170" alt="image" src="https://github.com/user-attachments/assets/dac72e9c-4828-4b58-8bc2-cd5528dd39d1" /><img width="1280" height="606" alt="image" src="https://github.com/user-attachments/assets/d7813b7b-3370-4815-96a8-863add431ccc" /><h1 align="center">
   <span style="background: linear-gradient(90deg, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
      Kiiya 
   </span>
@@ -25,8 +25,11 @@
   <img src="https://proxy.spigotmc.org/a8fa5c49b64fdfc435cc3837163e21fbcc282084/687474703a2f2f692e696d6775722e636f6d2f4a6b594d4b58362e706e67" height="50" alt="SpigotMC"/>
 </p>
 
-🗄️ **Databases**  
-> MySQL · SQLite  
+<p align="center">
+  <img src="https://www.hatthieves.es/wp-content/uploads/2019/09/16-420x300.png" height="50" alt="PL/SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50" alt="SQLite"/>
+  <img src="https://www.chetu.com/img/mysql/mysql-logo.png" height="50" alt="MySQL"/>
+</p>
 
 <hr style="border: 1px solid #ff00ff; box-shadow: 0 0 10px #ff00ff;">
 
