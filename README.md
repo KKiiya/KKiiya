@@ -23,9 +23,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" alt="NodeJS"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://proxy.spigotmc.org/a8fa5c49b64fdfc435cc3837163e21fbcc282084/687474703a2f2f692e696d6775722e636f6d2f4a6b594d4b58362e706e67" height="50" alt="SpigotMC"/>
-</p>
 
-<p align="center">
+  
   <img src="https://www.hatthieves.es/wp-content/uploads/2019/09/16-420x300.png" height="50" alt="PL/SQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="50" alt="SQLite"/>
   <img src="https://www.chetu.com/img/mysql/mysql-logo.png" height="50" alt="MySQL"/>
