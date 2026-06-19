@@ -34,15 +34,15 @@
 ### 🌌 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KKiiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai"
+    height="180"
+  />
 
-![KKiiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKiiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai)
-
-</p>
-
-<p align="center">
-
-[![KKiiya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKiiya&layout=pie&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKiiya&layout=pie&theme=monokai"
+    height="180"
+  />
 </p>
 
 <hr style="border: 1px solid #00ff99; box-shadow: 0 0 10px #00ff99;">
