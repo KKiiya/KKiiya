@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50" alt="NodeJS"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://tse4.mm.bing.net/th/id/OIP.ID0PANSxKXC7t25uBRswRAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="NodeJS"/>
+  <img src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4" height="50" alt="SpigotMC"/>
 </p>
 
 🗄️ **Databases**  
