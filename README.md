@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/kiiya_"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+  <a href="https://discord.gg/n5yNavRvrP"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
   <a href="https://github.com/KKiiya"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
