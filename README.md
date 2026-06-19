@@ -1,4 +1,4 @@
-<img width="250" height="170" alt="image" src="https://github.com/user-attachments/assets/dac72e9c-4828-4b58-8bc2-cd5528dd39d1" /><img width="1280" height="606" alt="image" src="https://github.com/user-attachments/assets/d7813b7b-3370-4815-96a8-863add431ccc" /><h1 align="center">
+<h1 align="center">
   <span style="background: linear-gradient(90deg, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
      Kiiya 
   </span>
