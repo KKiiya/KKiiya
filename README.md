@@ -29,6 +29,12 @@
   <img src="https://www.chetu.com/img/mysql/mysql-logo.png" height="50" alt="MySQL"/>
 </p>
 
+### 🎓 Learning
+
+<p align="center">
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" height="50" alt="Blender"/>
+</p>
+
 <hr style="border: 1px solid #ff00ff; box-shadow: 0 0 10px #ff00ff;">
 
 ### 🌌 GitHub Stats
