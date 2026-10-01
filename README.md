@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" height="50" alt="Blender"/>
-  <img src ="https://iconos8.es/icon/Wln8Z3PcXanx/logotipo-de-docker" height="50" alt="Docker"/>
+  <img src ="https://github.com/user-attachments/assets/b5223e8e-2d76-4f35-8e16-00560a514709" height="50" alt="Docker"/>
 </p>
 
 <hr style="border: 1px solid #ff00ff; box-shadow: 0 0 10px #ff00ff;">
